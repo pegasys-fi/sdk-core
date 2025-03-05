@@ -2,8 +2,8 @@ import JSBI from 'jsbi'
 
 export enum SupportedChainId {
   ROLLUX_TANENBAUM = 57000,
-  ROLLUX = 570
-
+  ROLLUX = 570,
+  ZKSYS_TANENBAUM = 5701
 }
 
 // exports for external consumption
